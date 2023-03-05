@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamahmoud
 - 👀 I’m interested in python
-- 🌱 I’m currently learning game developement, web developmet, data science, and machine learning, 
+- 🌱 I’m currently learning game developement, web developmet, data science, machine learning, and automation.
 - 📫 How to reach me on mohamed.ahmed1024@gmail.com
 
 <!---
